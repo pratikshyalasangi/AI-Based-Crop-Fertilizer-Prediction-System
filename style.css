@@ -1,0 +1,239 @@
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: url('farm.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  min-height: 100vh;
+  overflow-x: hidden;
+  padding-top: 70px;
+}
+
+
+.navbar {
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(10px);
+}
+.navbar-brand {
+  color: #eaffea !important;
+  font-weight: 700;
+}
+.nav-link {
+  color: #eaffea !important;
+  font-weight: 500;
+}
+.nav-link:hover,
+.nav-link.active {
+  color: #a7ff83 !important;
+}
+
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 80vh;
+  padding: 40px 20px;
+  animation: fadeUp 1s ease-out;
+}
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(40px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+h1, h2, h3 {
+  font-weight: 700;
+  color: #f0fff0;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+}
+p {
+  color: #eaffea;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  max-width: 500px;
+}
+
+
+.btn-primary {
+  background: linear-gradient(135deg, #2d6a4f, #74c69d);
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 8px;
+  width: 180px;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(116, 198, 157, 0.6);
+}
+.btn-secondary {
+  background: linear-gradient(135deg, #40916c, #95d5b2);
+  border: none;
+  color: white;
+  font-weight: 600;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 8px;
+  width: 180px;
+  transition: all 0.3s ease;
+}
+.btn-secondary:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px rgba(149, 213, 178, 0.6);
+}
+
+
+.button-group,
+.otp-btn-group,
+.upload-btn-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+
+.form-control {
+  width: 350px;
+  height: 45px;
+  margin: 10px auto;
+  border-radius: 10px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.4);
+  border: 1px solid #a5d6a7;
+  color: #fff;
+  padding: 10px;
+}
+.form-control::placeholder {
+  color: #fff;
+  opacity: 0.8;
+}
+
+.password-field {
+  position: relative;
+  width: 100%;
+  max-width: 350px;
+  margin: 10px auto;
+}
+.password-field input {
+  width: 100%;
+}
+.password-field i {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #a7ff83;
+  transition: color 0.3s;
+}
+.password-field i:hover {
+  color: #b9ff9f;
+}
+
+
+.password-hint {
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  text-align: center;
+  opacity: 0.9;
+}
+
+
+.file-btns {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-top: 30px;
+}
+.file-btn {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.4);
+  border: 2px solid #caffbf;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #a7ff83;
+  font-size: 38px;
+  cursor: pointer;
+  transition: all 0.3s;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.file-btn:hover {
+  transform: scale(1.1);
+  background: rgba(255, 255, 255, 0.25);
+  color: #d4ffcb;
+}
+.file-btn input {
+  display: none;
+}
+
+
+#previewImage {
+  max-width: 300px;
+  border-radius: 10px;
+  display: none;
+  margin-top: 25px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+
+.otp-input {
+  width: 200px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 20px;
+}
+.otp-btn-group {
+  margin-top: 20px;
+}
+
+
+#loginMsg, #otpMsg {
+  color: #ffbaba;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+
+.result-text {
+  font-size: 18px;
+  font-weight: 500;
+  margin: 8px 0;
+}
+.result-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+
+@media (max-width: 480px) {
+  .form-control {
+    width: 90%;
+  }
+  .file-btn {
+    width: 80px;
+    height: 80px;
+    font-size: 28px;
+  }
+  .btn-primary, .btn-secondary {
+    width: 150px;
+  }
+}

@@ -1,0 +1,55 @@
+<!--register.html-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Register | Smart Krushi</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://kit.fontawesome.com/a2d9d5e76a.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+  
+  <nav class="navbar navbar-expand-lg fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="index.html">🌾 Smart Krushi</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse justify-content-end" id="navMenu">
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link active" href="register.html">Register</a></li>
+          <li class="nav-item"><a class="nav-link" href="login.html">Login</a></li>
+          <li class="nav-item"><a class="nav-link" href="otp.html">OTP</a></li>
+          <li class="nav-item"><a class="nav-link" href="upload.html">Upload</a></li>
+          <li class="nav-item"><a class="nav-link" href="result.html">Result</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="main-container">
+    <h2>Register</h2>
+
+    <input type="text" id="name" class="form-control" placeholder="Full Name" required />
+    <input type="email" id="email" class="form-control" placeholder="Email" required />
+    <input type="text" id="phone" class="form-control" placeholder="Phone Number (10 digits)" required />
+
+    <div class="password-field">
+      <input type="password" id="password" class="form-control" placeholder="Password" required />
+      <i class="fa fa-eye" onclick="togglePassword('password', this)"></i>
+    </div>
+
+    <p class="password-hint">
+      Password must be at least 8 characters, include uppercase, lowercase, number, and special character.
+    </p>
+
+    <button class="btn btn-primary" onclick="sendOTP()">Register</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

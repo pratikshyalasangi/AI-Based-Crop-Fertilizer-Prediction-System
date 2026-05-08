@@ -1,0 +1,1002 @@
+image_path,disease_name,fertilizer_recommendation,description
+images/leaf_1.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_2.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_3.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_4.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_5.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_6.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_7.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_8.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths ofeedback_recordsfeedback_recordsn the plant; fungal disease causing yield loss.
+images/leaf_9.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_10.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_11.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_12.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_13.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_14.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_15.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_16.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_17.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_18.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_19.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_20.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_21.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_22.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_23.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_24.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_25.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_26.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_27.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_28.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_29.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_30.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_31.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_32.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_33.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_34.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_35.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_36.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_37.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_38.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_39.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_40.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_41.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_42.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_43.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_44.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_45.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_46.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_47.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_48.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_49.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_50.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_51.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_52.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_53.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_54.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_55.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_56.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_57.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_58.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_59.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_60.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_61.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_62.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_63.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_64.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_65.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_66.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_67.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_68.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_69.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_70.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_71.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_72.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_73.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_74.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_75.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_76.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_77.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_78.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_79.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_80.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_81.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_82.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_83.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_84.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_85.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_86.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_87.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_88.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_89.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_90.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_91.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_92.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_93.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_94.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_95.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_96.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_97.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_98.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_99.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_100.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_101.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_102.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_103.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_104.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_105.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_106.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_107.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_108.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_109.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_110.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_111.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_112.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_113.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_114.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_115.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_116.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_117.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_118.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_119.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_120.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_121.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_122.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_123.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_124.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_125.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_126.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_127.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_128.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_129.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_130.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_131.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_132.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_133.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_134.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_135.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_136.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_137.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_138.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_139.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_140.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_141.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_142.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_143.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_144.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_145.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_146.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_147.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_148.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_149.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_150.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_151.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_152.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_153.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_154.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_155.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_156.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_157.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_158.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_159.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_160.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_161.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_162.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_163.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_164.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_165.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_166.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_167.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_168.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_169.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_170.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_171.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_172.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_173.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_174.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_175.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_176.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_177.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_178.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_179.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_180.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_181.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_182.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_183.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_184.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_185.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_186.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_187.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_188.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_189.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_190.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_191.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_192.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_193.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_194.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_195.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_196.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_197.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_198.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_199.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_200.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_201.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_202.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_203.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_204.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_205.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_206.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_207.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_208.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_209.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_210.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_211.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_212.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_213.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_214.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_215.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_216.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_217.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_218.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_219.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_220.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_221.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_222.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_223.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_224.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_225.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_226.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_227.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_228.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_229.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_230.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_231.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_232.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_233.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_234.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_235.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_236.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_237.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_238.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_239.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_240.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_241.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_242.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_243.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_244.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_245.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_246.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_247.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_248.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_249.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_250.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_251.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_252.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_253.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_254.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_255.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_256.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_257.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_258.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_259.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_260.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_261.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_262.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_263.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_264.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_265.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_266.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_267.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_268.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_269.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_270.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_271.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_272.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_273.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_274.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_275.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_276.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_277.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_278.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_279.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_280.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_281.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_282.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_283.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_284.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_285.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_286.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_287.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_288.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_289.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_290.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_291.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_292.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_293.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_294.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_295.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_296.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_297.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_298.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_299.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_300.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_301.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_302.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_303.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_304.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_305.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_306.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_307.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_308.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_309.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_310.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_311.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_312.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_313.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_314.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_315.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_316.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_317.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_318.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_319.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_320.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_321.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_322.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_323.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_324.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_325.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_326.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_327.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_328.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_329.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_330.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_331.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_332.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_333.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_334.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_335.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_336.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_337.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_338.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_339.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_340.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_341.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_342.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_343.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_344.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_345.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_346.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_347.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_348.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_349.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_350.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_351.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_352.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_353.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_354.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_355.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_356.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_357.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_358.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_359.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_360.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_361.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_362.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_363.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_364.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_365.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_366.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_367.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_368.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_369.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_370.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_371.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_372.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_373.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_374.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_375.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_376.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_377.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_378.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_379.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_380.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_381.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_382.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_383.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_384.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_385.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_386.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_387.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_388.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_389.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_390.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_391.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_392.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_393.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_394.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_395.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_396.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_397.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_398.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_399.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_400.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_401.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_402.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_403.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_404.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_405.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_406.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_407.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_408.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_409.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_410.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_411.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_412.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_413.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_414.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_415.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_416.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_417.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_418.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_419.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_420.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_421.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_422.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_423.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_424.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_425.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_426.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_427.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_428.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_429.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_430.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_431.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_432.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_433.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_434.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_435.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_436.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_437.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_438.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_439.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_440.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_441.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_442.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_443.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_444.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_445.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_446.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_447.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_448.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_449.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_450.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_451.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_452.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_453.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_454.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_455.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_456.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_457.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_458.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_459.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_460.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_461.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_462.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_463.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_464.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_465.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_466.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_467.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_468.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_469.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_470.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_471.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_472.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_473.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_474.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_475.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_476.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_477.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_478.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_479.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_480.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_481.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_482.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_483.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_484.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_485.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_486.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_487.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_488.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_489.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_490.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_491.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_492.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_493.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_494.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_495.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_496.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_497.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_498.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_499.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_500.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_501.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_502.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_503.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_504.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_505.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_506.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_507.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_508.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_509.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_510.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_511.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_512.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_513.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_514.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_515.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_516.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_517.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_518.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_519.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_520.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_521.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_522.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_523.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_524.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_525.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_526.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_527.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_528.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_529.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_530.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_531.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_532.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_533.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_534.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_535.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_536.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_537.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_538.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_539.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_540.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_541.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_542.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_543.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_544.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_545.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_546.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_547.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_548.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_549.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_550.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_551.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_552.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_553.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_554.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_555.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_556.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_557.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_558.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_559.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_560.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_561.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_562.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_563.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_564.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_565.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_566.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_567.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_568.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_569.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_570.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_571.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_572.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_573.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_574.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_575.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_576.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_577.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_578.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_579.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_580.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_581.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_582.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_583.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_584.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_585.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_586.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_587.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_588.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_589.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_590.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_591.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_592.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_593.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_594.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_595.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_596.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_597.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_598.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_599.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_600.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_601.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_602.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_603.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_604.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_605.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_606.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_607.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_608.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_609.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_610.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_611.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_612.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_613.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_614.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_615.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_616.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_617.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_618.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_619.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_620.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_621.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_622.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_623.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_624.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_625.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_626.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_627.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_628.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_629.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_630.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_631.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_632.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_633.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_634.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_635.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_636.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_637.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_638.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_639.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_640.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_641.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_642.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_643.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_644.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_645.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_646.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_647.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_648.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_649.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_650.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_651.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_652.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_653.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_654.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_655.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_656.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_657.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_658.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_659.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_660.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_661.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_662.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_663.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_664.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_665.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_666.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_667.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_668.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_669.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_670.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_671.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_672.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_673.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_674.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_675.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_676.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_677.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_678.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_679.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_680.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_681.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_682.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_683.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_684.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_685.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_686.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_687.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_688.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_689.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_690.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_691.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_692.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_693.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_694.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_695.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_696.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_697.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_698.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_699.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_700.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_701.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_702.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_703.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_704.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_705.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_706.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_707.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_708.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_709.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_710.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_711.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_712.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_713.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_714.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_715.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_716.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_717.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_718.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_719.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_720.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_721.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_722.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_723.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_724.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_725.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_726.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_727.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_728.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_729.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_730.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_731.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_732.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_733.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_734.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_735.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_736.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_737.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_738.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_739.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_740.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_741.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_742.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_743.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_744.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_745.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_746.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_747.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_748.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_749.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_750.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_751.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_752.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_753.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_754.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_755.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_756.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_757.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_758.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_759.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_760.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_761.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_762.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_763.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_764.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_765.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_766.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_767.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_768.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_769.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_770.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_771.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_772.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_773.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_774.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_775.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_776.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_777.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_778.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_779.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_780.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_781.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_782.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_783.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_784.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_785.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_786.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_787.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_788.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_789.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_790.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_791.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_792.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_793.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_794.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_795.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_796.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_797.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_798.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_799.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_800.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_801.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_802.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_803.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_804.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_805.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_806.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_807.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_808.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_809.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_810.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_811.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_812.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_813.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_814.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_815.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_816.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_817.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_818.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_819.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_820.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_821.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_822.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_823.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_824.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_825.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_826.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_827.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_828.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_829.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_830.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_831.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_832.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_833.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_834.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_835.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_836.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_837.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_838.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_839.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_840.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_841.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_842.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_843.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_844.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_845.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_846.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_847.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_848.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_849.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_850.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_851.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_852.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_853.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_854.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_855.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_856.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_857.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_858.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_859.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_860.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_861.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_862.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_863.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_864.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_865.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_866.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_867.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_868.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_869.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_870.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_871.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_872.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_873.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_874.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_875.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_876.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_877.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_878.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_879.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_880.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_881.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_882.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_883.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_884.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_885.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_886.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_887.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_888.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_889.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_890.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_891.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_892.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_893.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_894.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_895.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_896.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_897.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_898.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_899.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_900.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_901.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_902.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_903.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_904.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_905.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_906.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_907.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_908.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_909.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_910.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_911.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_912.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_913.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_914.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_915.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_916.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_917.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_918.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_919.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_920.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_921.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_922.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_923.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_924.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_925.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_926.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_927.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_928.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_929.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_930.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_931.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_932.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_933.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_934.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_935.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_936.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_937.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_938.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_939.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_940.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_941.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_942.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_943.jpg,Anthracnose (Leaf Stage),Phosphorus-rich fertilizer,Dark lesions with concentric rings on leaves; spreads in humid conditions.
+images/leaf_944.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_945.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_946.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_947.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_948.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_949.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_950.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_951.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_952.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_953.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_954.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_955.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_956.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_957.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_958.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_959.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_960.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_961.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_962.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_963.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_964.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_965.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_966.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_967.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_968.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_969.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_970.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_971.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_972.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_973.jpg,Top Shoot Borer,Nitrogen-rich fertilizer,Larvae bore into the shoot tips causing drying and death of the top shoot.
+images/leaf_974.jpg,Leaf Scald,Potassium and Zinc fertilizer,"Causes white streaks and chlorosis on leaves, reduces photosynthesis."
+images/leaf_975.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_976.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_977.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_978.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_979.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_980.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_981.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_982.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_983.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_984.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_985.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_986.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+images/leaf_987.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_988.jpg,Yellow Leaf Syndrome,Potassium and Magnesium fertilizer,Leaves turn yellow from tip to base; viral disease affecting growth.
+images/leaf_989.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_990.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_991.jpg,Smut,Phosphorus-rich fertilizer,Black whip-like growths on the plant; fungal disease causing yield loss.
+images/leaf_992.jpg,Wilt Symptoms,Balanced NPK fertilizer,"Leaves curl, yellow and wilt; usually from root/stalk infection."
+images/leaf_993.jpg,Leaf Spot,Nitrogen and Potassium fertilizer,Small dark spots on leaves; may merge causing necrotic areas.
+images/leaf_994.jpg,Leaf Mosaic,Nitrogen and Potassium fertilizer,"Mosaic pattern on leaves, viral infection reducing growth and yield."
+images/leaf_995.jpg,Leaf Blast,Potassium and Magnesium fertilizer,Brown spots with concentric rings; fungal disease affecting photosynthesis.
+images/leaf_996.jpg,Grassy Shoot,Balanced NPK fertilizer,Shoots become pale green and skinny; reduces yield and vigor.
+images/leaf_997.jpg,Powdery Mildew,Potassium-rich fertilizer,White powdery coating on leaves; reduces photosynthesis.
+images/leaf_998.jpg,Red Rot,Nitrogen-rich fertilizer,A fungal disease causing red lesions on leaves and stalks.
+images/leaf_999.jpg,Red Stripe,Nitrogen and Phosphorus fertilizer,Red stripes on leaves; bacterial disease that weakens the plant.
+images/leaf_1000.jpg,Rust,Balanced NPK fertilizer,Orange-brown pustules on leaf surface; lowers yield.
+leaf_1.jpg,Red stripes on leaves; bacterial disease that weakens the plant.,⚠️ No fertilizer recommendation available.,⚠️ Disease not found in dataset.
